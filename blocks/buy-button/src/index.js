@@ -25,7 +25,7 @@ import save from './save';
  *
  * @see https://developer.wordpress.org/block-editor/reference-guides/block-api/block-registration/
  */
-registerBlockType( 'create-block/multiple-blocks-plugin', {
+registerBlockType( 'multiple-blocks-plugin/buy-button', {
 	/**
 	 * @see ./edit.js
 	 */

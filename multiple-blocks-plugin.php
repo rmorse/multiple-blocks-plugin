@@ -21,6 +21,9 @@
  * @see https://developer.wordpress.org/block-editor/tutorials/block-tutorial/writing-your-first-block-type/
  */
 function create_block_multiple_blocks_plugin_block_init() {
-	register_block_type( __DIR__ );
+	register_block_type( plugin_dir_path( __FILE__ ) . 'blocks/buy-button/' );
+	
+	// Additional blocks would be registered here
+	// register_block_type( plugin_dir_path( __FILE__ ) . 'blocks/hero/' );
 }
 add_action( 'init', 'create_block_multiple_blocks_plugin_block_init' );
