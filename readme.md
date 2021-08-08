@@ -1,6 +1,6 @@
 # Multiple blocks plugin
 
-This is a an implementation of the fantastic `@wordpress/create-block` package, with some restructuring to support multiple blocks in a single WordPress plugin.
+This is an implementation of the fantastic `@wordpress/create-block` package, with some restructuring to support multiple blocks in a single WordPress plugin.
 
 I strongly recommend to read the [official guide](https://developer.wordpress.org/block-editor/handbook/tutorials/create-block/), [the docs](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/), and check out [the article](https://gziolo.pl/2020/12/22/how-to-start-block-development-with-scaffolding/) from it's creator Greg Ziółkowski.
 
