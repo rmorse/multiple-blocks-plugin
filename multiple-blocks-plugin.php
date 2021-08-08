@@ -24,6 +24,6 @@ function create_block_multiple_blocks_plugin_block_init() {
 	register_block_type( plugin_dir_path( __FILE__ ) . 'blocks/buy-button/' );
 	
 	// Additional blocks would be registered here
-	// register_block_type( plugin_dir_path( __FILE__ ) . 'blocks/hero/' );
+	register_block_type( plugin_dir_path( __FILE__ ) . 'blocks/hero/' );
 }
 add_action( 'init', 'create_block_multiple_blocks_plugin_block_init' );

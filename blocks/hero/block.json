@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "multiple-blocks-plugin/hero",
+	"version": "0.1.0",
+	"title": "Hero Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block written with ESNext standard and JSX support – build step required.",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "multiple-blocks-plugin",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
