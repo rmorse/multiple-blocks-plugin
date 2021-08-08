@@ -5,7 +5,7 @@ This is an implementation of the fantastic `@wordpress/create-block` package, wi
 I strongly recommend to read the [official guide](https://developer.wordpress.org/block-editor/handbook/tutorials/create-block/), [the docs](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-create-block/), and check out [the article](https://gziolo.pl/2020/12/22/how-to-start-block-development-with-scaffolding/) from it's creator Greg Ziółkowski.
 
 ## Follow the tutorial
-This project was built to support the [tutorial found here](https://dev.to/rmorse/how-to-create-a-multiple-block-plugin-for-wordpress) - which uses the WordPress recommended way of creating a block plugin and teaches you how to add additional blocks should you need them.
+This project was built to support the [tutorial found here](https://dev.to/rmorse/how-to-create-a-multiple-block-plugin-for-wordpress-mpm) - which uses the WordPress recommended way of creating a block plugin and teaches you how to add additional blocks should you need them.
 
 If you prefer not to follow along, you can continue with the standard setup:
 
