@@ -37,4 +37,6 @@ npm run build:hero
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[GPL2 or Later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed. No credit is needed whatsover.
+
+Your WordPress plugin should have a [GPL2 or Later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html) license, though.
